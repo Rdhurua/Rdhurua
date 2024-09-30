@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdhurua&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=Rdhurua&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rdhurua&theme=radical&hide_border=false)
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+<img src="https://github.com/Rdhurua/Rdhurua/blob/main/dev.png?raw=true" alt="About Me GIF" width="240px" height="240px">
 <br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rdhurua&theme=radical&no-frame=false&no-bg=true&margin-w=4)
